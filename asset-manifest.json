@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Reactmeteo/static/css/main.4bedc319.css",
+    "main.js": "/Reactmeteo/static/js/main.c3c21e9d.js",
+    "static/js/787.d1fba59b.chunk.js": "/Reactmeteo/static/js/787.d1fba59b.chunk.js",
+    "index.html": "/Reactmeteo/index.html",
+    "static/media/CormorantGaramond-bold.ttf": "/Reactmeteo/static/media/CormorantGaramond-bold.6a60f4e4bcb08d152e00.ttf",
+    "static/media/Lora-VariableFont_wght.ttf": "/Reactmeteo/static/media/Lora-VariableFont_wght.fb93e68cf75cf285acc4.ttf",
+    "main.4bedc319.css.map": "/Reactmeteo/static/css/main.4bedc319.css.map",
+    "main.c3c21e9d.js.map": "/Reactmeteo/static/js/main.c3c21e9d.js.map",
+    "787.d1fba59b.chunk.js.map": "/Reactmeteo/static/js/787.d1fba59b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bedc319.css",
+    "static/js/main.c3c21e9d.js"
+  ]
+}
