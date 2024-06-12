@@ -1,72 +1,50 @@
-# Getting Started with Create React App
+# Application Météo React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Cette application météo React vous permet de consulter les prévisions météorologiques pour différentes villes à travers le monde. Elle a été développée en utilisant React et des API de données météorologiques pour fournir des informations météorologiques précises et en temps réel. Il est possible de la traduire soit en anglais
 
-## Available Scripts
+## Fonctionnalités
 
-In the project directory, you can run:
+- Recherche de prévisions météorologiques par ville.
+- Affichage des détails météorologiques tels que la température, l'humidité, la vitesse du vent, etc.
+- Prise en charge de plusieurs unités de mesure (Celsius, Fahrenheit, etc.).
+- Interface utilisateur conviviale et réactive.
 
-### `npm start`
+## Utilisation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Clonez ce dépôt sur votre machine locale.
+2. Exécutez `npm install` pour installer les dépendances.
+3. Exécutez `npm start` pour lancer l'application en mode développement.
+4. Ouvrez votre navigateur et accédez à [http://localhost:3000](http://localhost:3000) pour afficher l'application.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Langues Prises en Charge
 
-### `npm test`
+Cette application est disponible en anglais et en français. Pour changer la langue de l'application, suivez ces étapes :
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Ouvrez l'application météo.
+2. Recherchez le bouton ou l'option de paramètres (généralement représenté par une icône d'engrenage).
+3. Dans les paramètres, recherchez l'option de sélection de la langue.
+4. Sélectionnez "English" pour utiliser l'application en anglais ou "Français" pour utiliser l'application en français.
+5. Les changements seront appliqués immédiatement et l'application affichera le contenu dans la langue sélectionnée.
 
-### `npm run build`
+Si vous rencontrez des problèmes pour changer la langue de l'application, veuillez consulter la documentation de l'application ou contacter le support pour obtenir de l'aide supplémentaire.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Captures d'écran
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Capture d'écran de l'application météo](./src/MeteoReact.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Technologies Utilisées
 
-### `npm run eject`
+- React.js
+- API de données météorologiques
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contribuer
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce projet, veuillez ouvrir une issue pour discuter des changements que vous souhaitez apporter, ou soumettre directement une pull request.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Remarque
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Cette application météo est à des fins éducatives et de démonstration uniquement. Elle utilise des données météorologiques provenant de sources tierces et ne garantit pas l'exactitude des prévisions météorologiques.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-# Reactmeteo
+Pour plus d'informations sur React et la création d'applications météo, consultez la documentation officielle de [React](https://reactjs.org/) et explorez les API météorologiques disponibles en ligne.
